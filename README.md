@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-<!--
+This is my first Github repository
+Author'Amna Mazhar"
 **Amna-Mazhar/Amna-mazhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
